@@ -1,6 +1,6 @@
 <div class="container">
-    <h1>Hello, i'm Dmitrii</h1>
-    <p class="text">Это мой GitHub, где я делюсь своими навыками и скиллами</p>
+    <h1>Привет, я Дмитрий!</h1>
+    <p style="width: 100%; background-color: grey; border-radius: 10px; padding: 20px; color: white;">Это мой GitHub, где я делюсь своими навыками и скиллами</p>
     <div class="about">
         <p class="about__text">Найти меня можно здесь:</p>
         <div>
