@@ -3,9 +3,9 @@
     <p class="text">Это мой GitHub, где я делюсь своими навыками и скиллами</p>
     <div class="about">
         <p class="about__text">Найти меня можно здесь:</p>
-        <div class="social">
+        <div class="social" style="text-align: center;">
             <a target="_blank" href="https://www.linkedin.com/in/zakharov-dmitrii/">
-                <img class="social__link" src="img/linkedIn.svg" style="width: 50px; height: 50px; margin-right: 120px;">
+                <img class="social__link" src="img/linkedIn.svg" style="width: 50px; height: 50px; margin-right: 10px;">
             </a>
             <a target="_blank" href="https://t.me/zakharov_dm">
                 <img class="social__link" src="img/telegram.svg" style="width: 50px; height: 50px;">
