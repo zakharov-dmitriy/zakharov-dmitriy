@@ -43,6 +43,30 @@
     </div>
 </div>
 
+### Задания по темам
+
+---
+
+#### 1. Terminal Linux
+
+[link to the repisitory](https://github.com/zakharov-dmitriy/terminal)
+___
+
+#### 3
+
+---
+
+#### 4
+
+---
+
+#### 5
+
+---
+
+#### 6
+
+---
 <!--
 **zakharov-dmitriy/zakharov-dmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
