@@ -1,4 +1,4 @@
-<!-- <style>
+<style>
     .container {
         max-width: 1160px;
         padding: 0 10px;
@@ -24,7 +24,7 @@
     .about__text {
         font-size: 20px;
     }
-</style> -->
+</style>
 <div class="container">
     <h1>Hello i'm Dmitrii</h1>
     <p class="text">Это мой GitHub</p>
@@ -32,13 +32,13 @@
         <p class="about__text">Найти меня можно здесь</p>
         <div class="social">
             <a target="_blank" href="https://www.linkedin.com/in/zakharov-dmitrii/">
-                <img class="social__link" style="width: 50px; height: 50px; margin-left: 20px;"
-                    src="https://img.icons8.com/color/256/linkedin.png" alt="linkedin">
+                <img class="social__link"
+                    src="img/linkedin.png">
             </a>
-            <a target="_blank" href="https://krasnoyarsk.hh.ru/resume/7556328eff0b98abc40039ed1f444b586f3145">
+            <!-- <a target="_blank" href="https://krasnoyarsk.hh.ru/resume/7556328eff0b98abc40039ed1f444b586f3145">
                 <img class="social__link" style="width: 50px; height: 50px;"
                     src="head_hunter-0000.png" alt="hh">
-            </a>
+            </a> -->
         </div>
     </div>
 </div>
