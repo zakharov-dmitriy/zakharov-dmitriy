@@ -22,7 +22,7 @@
 
 ### 1. Terminal Linux
 
-[link to the repisitory](https://github.com/zakharov-dmitriy/terminal)
+[link to the repisitory](https://github.com/zakharov-dmitriy/hw_tasks/tree/main/terminal)
 ---
 
 ### 2
