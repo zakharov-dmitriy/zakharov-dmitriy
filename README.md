@@ -26,8 +26,9 @@
 В рамках регрессионного тестирования написал **44** автотеста на `JAVA` для интернет-магаазина. <br>
 Применял паттерны `Page Object`, `Page Factory`. <br>
 Использовал сборщик проектов `Maven`, фреймворк `JUnit5`, `Selenium WebDriver`.
-
 [ссылка на репозиторий](https://github.com/zakharov-dmitriy/pizzeria)
+
+---
 <!--
 **zakharov-dmitriy/zakharov-dmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
