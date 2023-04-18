@@ -18,9 +18,7 @@
     </div>
 </div>
 
-## Задания по темам
-
-:point_right: [link to the repisitory](https://github.com/zakharov-dmitriy/hw_tasks/)
+## Задания по темам :point_right: [link to the repisitory](https://github.com/zakharov-dmitriy/hw_tasks/)
 
 ---
 В рамках регрессионного тестирования написал **44** автотеста на `JAVA` для интернет-магаазина. <br>
