@@ -21,9 +21,12 @@
 ## Задания по темам
 
 [link to the repisitory](https://github.com/zakharov-dmitriy/hw_tasks/)
----
 
 ---
+В рамках регрессионного тестирования написал **44 автотеста** на **JAVA** для интернет-магаазина.
+Применял паттерны **Page Object**, **Page Factory**.
+Использовал сборщик проектов *Maven*, фреймворк *JUnit5*, *Selenium WebDriver*.
+[ссылка на репозиторий](https://github.com/zakharov-dmitriy/pizzeria)
 <!--
 **zakharov-dmitriy/zakharov-dmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
