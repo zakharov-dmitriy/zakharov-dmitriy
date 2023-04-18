@@ -8,7 +8,7 @@
                 <img class="social__link" src="img/linkedin.png" style="width: 50px; height: 50px;">
             </a>
             <a target="_blank" href="https://t.me/zakharov_dm">
-                <img class="social__link" src="img/tg.gif" style="width: 50px; height: 50px;">
+                <img class="social__link" src="img/t.png" style="width: 50px; height: 50px;">
             </a>
             <!-- <a target="_blank" href="https://krasnoyarsk.hh.ru/resume/7556328eff0b98abc40039ed1f444b586f3145">
                 <img class="social__link" style="width: 50px; height: 50px;"
@@ -24,9 +24,11 @@
 
 [link to the repisitory](https://github.com/zakharov-dmitriy/terminal)
 ---
+
 ### 2
 
 ---
+
 ### 3
 
 ---
