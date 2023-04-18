@@ -20,28 +20,8 @@
 
 ## Задания по темам
 
-### 1. Terminal Linux
-
-[link to the repisitory](https://github.com/zakharov-dmitriy/hw_tasks/tree/main/Terminal)
+[link to the repisitory](https://github.com/zakharov-dmitriy/hw_tasks/)
 ---
-
-### 2
-
----
-
-### 3
-
----
-
-### 4
-
----
-
-### 5
-
----
-
-### 6
 
 ---
 <!--
