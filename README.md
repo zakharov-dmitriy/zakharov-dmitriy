@@ -5,7 +5,7 @@
         <p class="about__text">Найти меня можно здесь:</p>
         <div class="social">
             <a target="_blank" href="https://www.linkedin.com/in/zakharov-dmitrii/">
-                <img class="social__link" src="img/linkedin.svg" style="width: 50px; height: 50px;">
+                <img class="social__link" src="img/linkedIn.svg" style="width: 50px; height: 50px; margin-right: 20px;">
             </a>
             <a target="_blank" href="https://t.me/zakharov_dm">
                 <img class="social__link" src="img/telegram.svg" style="width: 50px; height: 50px;">
