@@ -41,9 +41,13 @@ QA-Engineer. Специалист по тестированию
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="img/DBeaver.svg" alt="dbeaver" width="36" height="36"/></a>
 <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"><img src="img/AS.svg" width="36" height="36" alt="Android Studio"></a>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="img/Xcode.svg" width="36" height="36" alt="Xcode"></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"></a>
+<!-- <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"></a> -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch"></a>
+<!-- <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch"></a> -->
+<a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"><img src="img/Jira.svg" width="36" height="36" alt="Jira"></a>
+<!-- <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="img/Confluence.svg" width="36" height="36" alt="Confluence"></a> -->
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="img/youtrack.svg" width="36" height="36" alt="YouTrack"></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="img/idea.svg" width="36" height="36" alt="Idea"></a>
 </p>
 
 ### Опыт
