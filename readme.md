@@ -22,6 +22,7 @@ QA-Engineer. Специалист по тестированию
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="img/git.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="36" height="36"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="img/PostgresSQL.svg" alt="postgreSQL" width="36" height="36"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40"></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45"></a>
@@ -67,6 +68,13 @@ QA-Engineer. Специалист по тестированию
 
 ### Статистика моего GitHub
 
-<a href="http://www.github.com/zakharov-dmitriy"><img src="https://github-readme-stats.vercel.app/api?username=zakharov-dmitriy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zakharov-dmitriy's GitHub stats" /></a>
+<!-- статистика по языкам
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakharov-dmitriy&layout=compact)](https://github.com/zakharov-dmitriy) -->
+<!-- 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zakharov-dmitriy&theme=github_dark) -->
+
+<a href="https://github.com/zakharov-dmitriy"><img src="https://github-readme-stats.vercel.app/api?username=zakharov-dmitriy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zakharov-dmitriy's GitHub stats" /></a>
 
 <a href="http://www.github.com/zakharov-dmitriy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakharov-dmitriy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></a>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
