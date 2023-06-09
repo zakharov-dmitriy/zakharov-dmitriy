@@ -53,11 +53,11 @@ QA-Engineer. Специалист по тестированию
 
 ### Сертификаты
 
-<p style="margin-top: 140px;">
+<div style="margin-top: 140px;">
 <a href="https://drive.google.com/file/d/1WUyhU-E7LbBvYX4lwCAEsClRvunheVUh/view?usp=drive_link" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://zakharov-dmitriy.github.io/new/terminal.png" alt="Terminal Linux" width="150"></a>
 <a href="https://drive.google.com/file/d/1xMiz7Egryx5UJzvtbsK6Iga0lchqA_x6/view?usp=drive_link" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://zakharov-dmitriy.github.io/new/git.png" alt="GIT" width="150"></a>
 <a href="https://drive.google.com/file/d/19hrBCbd-E3N8g9RimIhHrPHSMGFyj6_r/view?usp=drive_link" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://zakharov-dmitriy.github.io/new/postman.png" alt="Postman" width="150"></a>
-</p>
+</div>
 
 ### Опыт
 
