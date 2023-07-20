@@ -38,7 +38,8 @@ QA-Engineer. Специалист по тестированию
 <a href="https://www.linux.org/" target="_blank"><img src="img/linux1.svg" alt="Linux" height="36"></a>
 <a href="https://about.gitlab.com/" target="_blank"><img src="img/gitlab.svg" alt="GitLab" height="36"></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="img/charles.svg" alt="postman" width="36" height="36"/></a>
+<a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"> <img src="img/charles.svg" alt="charles" width="36" height="36"/></a>
+<a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"> <img src="img/fiddler.svg" alt="fiddler" width="36" height="36"/></a>
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="img/DBeaver.svg" alt="dbeaver" width="36" height="36"/></a>
 <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"><img src="img/AS.svg" width="36" height="36" alt="Android Studio"></a>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="img/Xcode.svg" width="36" height="36" alt="Xcode"></a>
