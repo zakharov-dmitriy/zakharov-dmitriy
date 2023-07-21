@@ -69,6 +69,7 @@ QA-Engineer. Специалист по тестированию
 - Применял паттерны `Page Object`, `Page Factory`. <br>
 - Использовал сборщик проектов `Maven`, фреймворк `JUnit5`, `Selenium WebDriver`.<br>
 [ссылка на репозиторий](https://github.com/zakharov-dmitriy/pizzeria)
+- Настраивал CI процесс в GitLab CI/CD для прохода автотестов.
 
 2. Для компании SPIRIT и коммерческого приложения для видео-конференций и звонков:
 
